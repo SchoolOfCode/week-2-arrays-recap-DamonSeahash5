@@ -55,4 +55,20 @@ let options = [
   console.log(options[4]);
   console.log(options[6]);
 
-  
+// Task 3
+
+let englishNumbers = ["one", "two", "three", "four", "five"];
+
+let i = 0;
+
+while (i < englishNumbers.length) {
+    console.log(englishNumbers[i])
+    // console.log("Test");
+    i++;
+}
+
+//Not sure why no output?
+//A, I had written .Length not .length
+
+//Task 4
+
