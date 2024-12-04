@@ -68,7 +68,7 @@ while (i < englishNumbers.length) {
 }
 
 //Not sure why no output?
-//A, I had written .Length not .length
+//Ah, I had written .Length not .length
 
 //Task 4
 
